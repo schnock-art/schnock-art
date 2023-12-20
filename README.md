@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @schnock-art
-- 👀 I’m interested in Photomanipulation, Machine Learning and Game Development
-- 🌱 I’m currently learning C# in Unity
+- 👀 I’m interested in Photomanipulation, Machine Learning, Data Science
 - 📫 How to reach me schnock.art@gmail.com
 
 <!---
